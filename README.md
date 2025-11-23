@@ -1,3 +1,10 @@
+# 3 Tier Architecture
+
+![alt text](3-tier-architecture.svg)
+
+STEPS TO FOLLOW
+====================
+
 1. Launch three ec2-instances
 2. Coonect to these instances via ssh using mobaxterm applicatiion.
 3. Then login as root.
